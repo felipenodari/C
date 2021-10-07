@@ -1,5 +1,3 @@
-// PIM IV - Felipe Nodari Fogaça - RA: 2071275
-
 #include <stdio.h>
 #include <locale.h>
 #include <string.h>
