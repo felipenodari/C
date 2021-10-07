@@ -1,3 +1,6 @@
+// Código para cadastrar e realizar uma triagem de pacientes com comorbidades. Ao final um arquivo .txt será gerado no mesmo
+// diretório ao executar este código; irá conter todos os pacientes da triagem cadastral.
+// O código está modularizado e poossui validação de dados, bem como para datas e anos bissextos.
 #include <stdio.h>
 #include <locale.h>
 #include <string.h>
