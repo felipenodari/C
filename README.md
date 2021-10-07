@@ -1,2 +1,2 @@
 # C
-Desenvolvimento de códigos em C
+C code development;
